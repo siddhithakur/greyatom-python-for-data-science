@@ -1,0 +1,1 @@
+It is an introductory project that gives hands-on practice one basics of Python like strings, list, etc.
